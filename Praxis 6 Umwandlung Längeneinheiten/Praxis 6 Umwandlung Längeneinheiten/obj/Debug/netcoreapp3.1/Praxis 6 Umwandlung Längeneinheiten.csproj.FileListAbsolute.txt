@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\bin\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 6 Platzhalter\Praxis 6 Umwandlung Längeneinheiten\obj\Debug\netcoreapp3.1\Praxis 6 Umwandlung Längeneinheiten.genruntimeconfig.cache

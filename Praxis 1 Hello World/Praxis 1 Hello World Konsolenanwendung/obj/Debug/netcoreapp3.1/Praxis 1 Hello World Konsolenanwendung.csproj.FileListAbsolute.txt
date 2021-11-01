@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\bin\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 1 Hello World Konsolenanwendung\obj\Debug\netcoreapp3.1\Praxis 1 Hello World Konsolenanwendung.genruntimeconfig.cache

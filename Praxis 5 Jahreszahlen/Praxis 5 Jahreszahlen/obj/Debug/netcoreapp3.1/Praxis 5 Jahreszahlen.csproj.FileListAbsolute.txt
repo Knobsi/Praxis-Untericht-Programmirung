@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\bin\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 5 Jahreszahlen\Praxis 5 Jahreszahlen\obj\Debug\netcoreapp3.1\Praxis 5 Jahreszahlen.genruntimeconfig.cache

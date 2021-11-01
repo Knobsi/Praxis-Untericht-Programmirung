@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\bin\Debug\netcoreapp3.1\Berechnung eines Quaders.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Berechnung für einen Quader\Berechnung eines Quaders\obj\Debug\netcoreapp3.1\Berechnung eines Quaders.genruntimeconfig.cache

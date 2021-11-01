@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\bin\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programmierung\Praxis\Praxis 4 Gerechtes Teilen (Berechnung)\Praxis 4 Gerechtes Teilen\obj\Debug\netcoreapp3.1\Praxis 4 Gerechtes Teilen.genruntimeconfig.cache

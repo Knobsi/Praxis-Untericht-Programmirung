@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 7 Datentypen/1.0.0": {
+        "runtime": {
+          "Praxis 7 Datentypen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 7 Datentypen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

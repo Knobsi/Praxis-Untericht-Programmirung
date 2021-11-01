@@ -1,0 +1,13 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\bin\Debug\netcoreapp3.1\Übung 03 Berechnungen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Arbeit 1 Hello World yeahD\Praxis 3 Berechnungen\Übung 03 Berechnungen\obj\Debug\netcoreapp3.1\Übung 03 Berechnungen.genruntimeconfig.cache

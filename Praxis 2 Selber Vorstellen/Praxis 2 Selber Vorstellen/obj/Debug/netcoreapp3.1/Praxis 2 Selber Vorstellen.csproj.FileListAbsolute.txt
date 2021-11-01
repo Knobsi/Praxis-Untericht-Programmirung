@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\bin\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Programirung\Praxis\Praxis 2 Selber Vorstellen\Praxis 2 Selber Vorstellen\obj\Debug\netcoreapp3.1\Praxis 2 Selber Vorstellen.genruntimeconfig.cache
