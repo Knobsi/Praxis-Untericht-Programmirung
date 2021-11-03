@@ -12,7 +12,7 @@ namespace Praxis_6_Umwandlung_Längeneinheiten
 
 
             //Berechnung der Eingabe
-            int km = laenge / 1000000;
+            int km = laenge / 1_000_000;
             int kmRest = laenge % 1000000;
 
             int m = kmRest / 1000;
@@ -26,6 +26,13 @@ namespace Praxis_6_Umwandlung_Längeneinheiten
 
             //Ausgabe der Eingabe
             Console.WriteLine("Deine angegebenen " + laenge + "mm sind " + km + "km und " + m + "m und " + cm + "cm und " + mm + "mm Lang");
+
+            //Formatirte ausgabe mit Platzhalter
+            Console.WriteLine("{0} entsprechen {1} km {2} m {3} cm {4} mm", laenge, km, m, cm, mm);
+
+            //Formatierte Ausgabe mit Interpolationsausgabe
+            Console.WriteLine($"{laenge} sind {km} km {m} m {cm} cm {mm} mm");
+
         }
     }
 }

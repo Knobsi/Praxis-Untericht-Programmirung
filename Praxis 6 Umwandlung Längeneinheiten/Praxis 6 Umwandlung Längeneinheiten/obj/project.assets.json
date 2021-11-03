@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 6 Platzhalter\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten.csproj",
+      "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten.csproj",
       "projectName": "Praxis 6 Umwandlung Längeneinheiten",
-      "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 6 Platzhalter\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten.csproj",
+      "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten.csproj",
       "packagesPath": "C:\\Users\\bib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 6 Platzhalter\\Praxis 6 Umwandlung Längeneinheiten\\obj\\",
+      "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 6 Umwandlung Längeneinheiten\\Praxis 6 Umwandlung Längeneinheiten\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
