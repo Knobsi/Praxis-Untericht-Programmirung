@@ -8,6 +8,7 @@ namespace Praxis_7_Datentypen
         {
 
             //Deklaration und ausgabe von dateitypen
+            //Ganzzahlen
             //byte
             byte b1 = 113;
             Console.WriteLine(b1);
@@ -51,6 +52,29 @@ namespace Praxis_7_Datentypen
             short sx = 256;
             byte bx = (byte)sx;
             Console.WriteLine("Test  256 in byte " + bx);
+
+            //Nachkommazahlen
+            //float
+            float f1 = 15.3f;
+            Console.WriteLine(f1);
+            float f2 = 12345.6789f;
+            Console.WriteLine(f2);
+
+            //double
+            double d1 = 3.5d;
+            Console.WriteLine(d1);
+            double d2 = 12345.6789d;
+            Console.WriteLine(d2);
+            double d3 = -1.602176620898e19d;
+            Console.WriteLine(d3);
+
+            //decimal
+            decimal m1 = 0.123456789123456789012345678901234567890m;
+            Console.WriteLine(m1);
+            decimal m2 = -1.602176620898e19m;
+            Console.WriteLine(m2);
+
+
         }
     }
 }

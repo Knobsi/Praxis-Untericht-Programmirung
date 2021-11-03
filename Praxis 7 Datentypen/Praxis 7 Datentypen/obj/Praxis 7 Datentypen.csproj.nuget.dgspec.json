@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj": {}
+    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj": {
+    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj",
+        "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj",
         "projectName": "Praxis 7 Datentypen",
-        "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj",
+        "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\Praxis 7 Datentypen.csproj",
         "packagesPath": "C:\\Users\\bib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\obj\\",
+        "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 7 Datentypen\\Praxis 7 Datentypen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
