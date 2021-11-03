@@ -75,6 +75,15 @@ namespace Praxis_7_Datentypen
             Console.WriteLine(m2);
 
 
+            // Eingabe von Kommazahlen über die Konsole
+            Console.Write("float? ");
+            float fx = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine(fx);
+
+            Console.Write("double ?");
+            double dx = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(dx);
+
         }
     }
 }
