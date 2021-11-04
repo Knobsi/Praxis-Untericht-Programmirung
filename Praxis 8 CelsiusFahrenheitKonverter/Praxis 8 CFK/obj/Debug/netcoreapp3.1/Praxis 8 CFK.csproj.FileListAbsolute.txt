@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\bin\Debug\netcoreapp3.1\Praxis 8 CFK.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 8 CelsiusFahrenheitKonverter\Praxis 8 CFK\obj\Debug\netcoreapp3.1\Praxis 8 CFK.genruntimeconfig.cache
