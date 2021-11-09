@@ -84,6 +84,22 @@ namespace Praxis_7_Datentypen
             double dx = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine(dx);
 
+
+            // char variablen 
+
+            char c = 'A';
+            Console.WriteLine(c);
+
+            int valueC = c;
+            Console.WriteLine(valueC);
+
+            Console.WriteLine((Char)66);
+
+            char pfundZeichen = '\u00A3';
+
+            char zeilenumbruch = '\n';
+
+
         }
     }
 }
