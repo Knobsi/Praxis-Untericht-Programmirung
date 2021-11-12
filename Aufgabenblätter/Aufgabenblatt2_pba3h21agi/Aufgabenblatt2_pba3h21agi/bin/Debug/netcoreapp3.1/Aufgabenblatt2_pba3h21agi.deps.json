@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aufgabenblatt2_pba3h21agi/1.0.0": {
+        "runtime": {
+          "Aufgabenblatt2_pba3h21agi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabenblatt2_pba3h21agi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\bin\Debug\netcoreapp3.1\Aufgabe 1-1.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Projekte\Programirung\Aufgabenblatt1_pba3h21agi\Aufgabe 1-1\obj\Debug\netcoreapp3.1\Aufgabe 1-1.genruntimeconfig.cache
