@@ -8,15 +8,15 @@ namespace Aufgabe_2_3
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Geben sie die erste Länge ein ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Geben sie die Länge ein ");
+            double a = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Geben sie die Breite ein ");
-            int b = Convert.ToInt32(Console.ReadLine());
+            double b = Convert.ToInt32(Console.ReadLine());
 
-            double Rechnungsausgabe = Math.Sqrt( Math.Pow(a, 2) + Math.Pow(b, 2));
+            double c = Math.Sqrt( Math.Pow(a, 2) + Math.Pow(b, 2));
 
-            Console.WriteLine(Rechnungsausgabe);
+            Console.WriteLine($"LOL ICH IDIOT {c:F}");
 
 
 
