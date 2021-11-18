@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\bin\Debug\netcoreapp3.1\Praxis 11 Begrüßung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 11 Begrüßung\Praxis 11 Begrüßung\Praxis 11 Begrüßung\obj\Debug\netcoreapp3.1\Praxis 11 Begrüßung.genruntimeconfig.cache

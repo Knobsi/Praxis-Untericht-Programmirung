@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1718: Vergleich erfolgte mit derselben Variable
+dotnet_diagnostic.CS1718.severity = none
