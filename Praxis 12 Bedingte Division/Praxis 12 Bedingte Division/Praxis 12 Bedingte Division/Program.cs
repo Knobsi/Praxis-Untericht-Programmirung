@@ -15,7 +15,6 @@ namespace Praxis_12_Bedingte_Division
 
             Console.Write("zahl2 bittö :");
             double zahl2 = Convert.ToDouble(Console.ReadLine());
-
             
             //Wen zahl 1 größer als zahl 2 ist dan wechsel zahl 1 und 2
             if(zahl1 > zahl2)
@@ -29,7 +28,7 @@ namespace Praxis_12_Bedingte_Division
             //Gibt die eingegebenen zahlen und das ergebnis aus
             Console.WriteLine("Deine zahl 1 war" + zahl1);
             Console.WriteLine("Deine zahl 2 war" + zahl2);
-            Console.WriteLine($"Das ergebnis aus {zahl1} durch { zahl2} lautet {summe:F} ");
+            Console.WriteLine($"Das ergebnis aus {zahl1} durch {zahl2} lautet {summe:F} ");
 
         }
     }
