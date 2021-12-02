@@ -1,0 +1,14 @@
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.exe
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.deps.json
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.runtimeconfig.json
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.runtimeconfig.dev.json
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.dll
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\bin\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.pdb
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.csproj.AssemblyReference.cache
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.GeneratedMSBuildEditorConfig.editorconfig
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.AssemblyInfoInputs.cache
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.AssemblyInfo.cs
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.csproj.CoreCompileInputs.cache
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.dll
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.pdb
+H:\PoolOrdner\Kontrollstrukturen Übung 13 Schleifen\Kontrollstrukturen Übung 13 Schleifen\obj\Debug\netcoreapp3.1\Kontrollstrukturen Übung 13 Schleifen.genruntimeconfig.cache

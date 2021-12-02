@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\PoolOrdner\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen.csproj": {}
+  },
+  "projects": {
+    "H:\\PoolOrdner\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\PoolOrdner\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen.csproj",
+        "projectName": "Kontrollstrukturen Übung 13 Schleifen",
+        "projectPath": "H:\\PoolOrdner\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen.csproj",
+        "packagesPath": "C:\\Users\\pba3h21agi\\.nuget\\packages\\",
+        "outputPath": "H:\\PoolOrdner\\Kontrollstrukturen Übung 13 Schleifen\\Kontrollstrukturen Übung 13 Schleifen\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "H:\\Anwendungsdaten\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
