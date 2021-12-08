@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f0c1cfe-a86a-4194-ab68-762f76f7d0ee": {
+      "ProjectGuid": "9f0c1cfe-a86a-4194-ab68-762f76f7d0ee",
+      "DisplayName": "Aufgabenblatt5_pba3h21agi",
+      "ColorIndex": 0
+    },
+    "c75f8548-f6ff-4959-aef3-ad8cb2e4813a": {
+      "ProjectGuid": "c75f8548-f6ff-4959-aef3-ad8cb2e4813a",
+      "DisplayName": "Aufgabe 5-1",
+      "ColorIndex": 1
+    },
+    "c461b3a5-deae-4fb2-a7cc-938d6a42aebd": {
+      "ProjectGuid": "c461b3a5-deae-4fb2-a7cc-938d6a42aebd",
+      "DisplayName": "Aufgabe 5-2",
+      "ColorIndex": 2
+    },
+    "c5533ede-68a9-457a-ab0f-7a2c80452226": {
+      "ProjectGuid": "c5533ede-68a9-457a-ab0f-7a2c80452226",
+      "DisplayName": "Aufgabe 5-3",
+      "ColorIndex": 3
+    },
+    "21ab1134-4bd0-40b1-91e5-cb63edf3cde0": {
+      "ProjectGuid": "21ab1134-4bd0-40b1-91e5-cb63edf3cde0",
+      "DisplayName": "Aufgabe 4-4",
+      "ColorIndex": 4
+    },
+    "28c268f8-ff84-4c62-8862-a5c37fd1850d": {
+      "ProjectGuid": "28c268f8-ff84-4c62-8862-a5c37fd1850d",
+      "DisplayName": "Aufgabe 5-4",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
