@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praxis 18 Quersummen", "Praxis 18 Quersummen\Praxis 18 Quersummen.csproj", "{12B6D81E-3E0B-4BA5-8A14-496076E05D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B6D81E-3E0B-4BA5-8A14-496076E05D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B6D81E-3E0B-4BA5-8A14-496076E05D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B6D81E-3E0B-4BA5-8A14-496076E05D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B6D81E-3E0B-4BA5-8A14-496076E05D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B51E0F50-1DDF-4DFA-A216-8F602C665DBD}
+	EndGlobalSection
+EndGlobal

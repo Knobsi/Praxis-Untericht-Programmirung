@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\bin\Debug\netcoreapp3.1\Praxis 18 Quersummen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 18 Quersummen\Praxis 18 Quersummen\obj\Debug\netcoreapp3.1\Praxis 18 Quersummen.genruntimeconfig.cache

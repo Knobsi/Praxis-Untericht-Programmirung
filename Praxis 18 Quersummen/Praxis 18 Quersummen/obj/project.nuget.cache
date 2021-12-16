@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Btw8VGiBGjNUr+NyeoHzWcUyYKo96N183IjIhFhZ2pnBip+vmh+GFWOxGXaNtlOgITq+M+2G6BE2CKzbdzBgTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 18 Quersummen\\Praxis 18 Quersummen\\Praxis 18 Quersummen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
