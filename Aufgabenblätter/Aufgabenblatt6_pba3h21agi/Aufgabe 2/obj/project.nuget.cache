@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3AON7FdKlQ4lPXUUczAuoUT4rvD32GPFIib0BfLq0aRh2jDUEoasrSD0J2QisiGp2cu9tK8NyoFtchpFvKJkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Aufgabenblätter\\Aufgabenblatt6_pba3h21agi\\Aufgabe 2\\Aufgabe 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

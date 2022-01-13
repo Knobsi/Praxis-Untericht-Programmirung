@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\bin\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 21 Ein mal eins\Praxis 21 Ein mal eins\obj\Debug\netcoreapp3.1\Praxis 21 Ein mal eins.genruntimeconfig.cache

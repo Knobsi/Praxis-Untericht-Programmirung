@@ -1,0 +1,13 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\bin\Debug\netcoreapp3.1\d.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\d\obj\Debug\netcoreapp3.1\d.genruntimeconfig.cache

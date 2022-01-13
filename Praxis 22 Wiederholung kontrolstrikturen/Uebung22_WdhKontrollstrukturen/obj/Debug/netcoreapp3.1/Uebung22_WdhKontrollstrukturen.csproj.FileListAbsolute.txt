@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\bin\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Uebung22_WdhKontrollstrukturen\Uebung22_WdhKontrollstrukturen\obj\Debug\netcoreapp3.1\Uebung22_WdhKontrollstrukturen.genruntimeconfig.cache

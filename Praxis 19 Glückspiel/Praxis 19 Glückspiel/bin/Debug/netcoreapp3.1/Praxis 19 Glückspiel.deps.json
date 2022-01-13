@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 19 Glückspiel/1.0.0": {
+        "runtime": {
+          "Praxis 19 Glückspiel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 19 Glückspiel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

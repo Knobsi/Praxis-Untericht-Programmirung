@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "915677a6-ceca-4a1d-88e9-d8f640bd6b49": {
+      "ProjectGuid": "915677a6-ceca-4a1d-88e9-d8f640bd6b49",
+      "DisplayName": "Praxis 20 for-Schleifen",
+      "ColorIndex": 0
+    },
+    "51744ba1-f627-4d63-955f-1ba600c3c117": {
+      "ProjectGuid": "51744ba1-f627-4d63-955f-1ba600c3c117",
+      "DisplayName": "a",
+      "ColorIndex": 1
+    },
+    "c078de10-78a3-4510-992c-397f0156d474": {
+      "ProjectGuid": "c078de10-78a3-4510-992c-397f0156d474",
+      "DisplayName": "b",
+      "ColorIndex": 2
+    },
+    "8d4720f4-f537-4add-b503-3b2aeee5c364": {
+      "ProjectGuid": "8d4720f4-f537-4add-b503-3b2aeee5c364",
+      "DisplayName": "c",
+      "ColorIndex": 3
+    },
+    "e1cbb77b-bb13-4036-af21-623c9d7ff0a4": {
+      "ProjectGuid": "e1cbb77b-bb13-4036-af21-623c9d7ff0a4",
+      "DisplayName": "d",
+      "ColorIndex": 4
+    },
+    "8e263276-56d9-4ff5-9865-d4838b55a1d1": {
+      "ProjectGuid": "8e263276-56d9-4ff5-9865-d4838b55a1d1",
+      "DisplayName": "e",
+      "ColorIndex": 5
+    },
+    "14c8f4f5-7636-4fc1-923b-d7a42cbf6eb3": {
+      "ProjectGuid": "14c8f4f5-7636-4fc1-923b-d7a42cbf6eb3",
+      "DisplayName": "f",
+      "ColorIndex": 6
+    },
+    "1849f9bb-b646-4c0a-9707-b4f1aa31f142": {
+      "ProjectGuid": "1849f9bb-b646-4c0a-9707-b4f1aa31f142",
+      "DisplayName": "g",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

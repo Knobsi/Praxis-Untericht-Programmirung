@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praxis 19 Glückspiel", "Praxis 19 Glückspiel\Praxis 19 Glückspiel.csproj", "{AB7F8B43-3D80-4806-A9E0-0B9422231A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7F8B43-3D80-4806-A9E0-0B9422231A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7F8B43-3D80-4806-A9E0-0B9422231A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7F8B43-3D80-4806-A9E0-0B9422231A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7F8B43-3D80-4806-A9E0-0B9422231A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA507B7-2FFD-4E3E-88D6-0E36CE6CB889}
+	EndGlobalSection
+EndGlobal

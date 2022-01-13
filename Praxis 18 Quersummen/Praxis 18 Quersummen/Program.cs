@@ -13,7 +13,7 @@ namespace Praxis_18_Quersummen
             while (zahl != 0)
             {
                 int last = zahl % 10;
-                quersumme =  last;
+                quersumme = quersumme + last;
                 zahl = zahl / 10;
                 Console.Write(quersumme);
                 Console.Write(".");

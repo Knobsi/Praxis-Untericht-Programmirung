@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\bin\Debug\netcoreapp3.1\Praxis 23.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 23  Methoden\Praxis 23\Praxis 23\obj\Debug\netcoreapp3.1\Praxis 23.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDvlDjh2Tnpu/eeZS8cAE0vvTZD9djApW0jtyIx2D+lHgZm4XEOkndOBpJZrQmubTPpCzPsHKPj6zMeUC3vyYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 19 Glückspiel\\Praxis 19 Glückspiel\\Praxis 19 Glückspiel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

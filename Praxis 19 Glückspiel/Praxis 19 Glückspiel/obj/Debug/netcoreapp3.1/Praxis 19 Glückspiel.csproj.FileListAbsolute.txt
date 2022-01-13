@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\bin\Debug\netcoreapp3.1\Praxis 19 Glückspiel.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 19 Glückspiel\Praxis 19 Glückspiel\obj\Debug\netcoreapp3.1\Praxis 19 Glückspiel.genruntimeconfig.cache

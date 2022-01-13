@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\bin\Debug\netcoreapp3.1\a.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 20 for-Schleifen\a\obj\Debug\netcoreapp3.1\a.genruntimeconfig.cache
