@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\bin\Debug\netcoreapp3.1\Praxis 24b.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 24  ggT und kgV\Praxis 24\Praxis 24b\obj\Debug\netcoreapp3.1\Praxis 24b.genruntimeconfig.cache

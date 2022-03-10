@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qh6VoO/ACm/8znOt4KSBdfztpHzgblRBH203pwNOFP9XFSRlvZZq5MC2Jss8qup/4S0A1RixGCYOOg126waQ7Q==",
+  "dgSpecHash": "uoxDTlDaQNj5Eo3fVx5HmsPyEvTuYG+/EqlETxtZmbvtlvDOvls9YN1f35LbTdZ054JJg8I9P9yfeipVvgoY9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Aufgabenblätter\\Aufgabenblatt6_pba3h21agi\\Aufgabe 3\\Aufgabe 3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

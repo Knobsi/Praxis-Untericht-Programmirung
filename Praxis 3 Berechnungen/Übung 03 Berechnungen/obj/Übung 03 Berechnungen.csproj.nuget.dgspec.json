@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programirung\\Praxis\\Arbeit 1 Hello World yeahD\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj": {}
+    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programirung\\Praxis\\Arbeit 1 Hello World yeahD\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj": {
+    "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programirung\\Praxis\\Arbeit 1 Hello World yeahD\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj",
+        "projectUniqueName": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj",
         "projectName": "Übung 03 Berechnungen",
-        "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programirung\\Praxis\\Arbeit 1 Hello World yeahD\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj",
+        "projectPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\Übung 03 Berechnungen.csproj",
         "packagesPath": "C:\\Users\\bib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Programirung\\Praxis\\Arbeit 1 Hello World yeahD\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\obj\\",
+        "outputPath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Untericht\\Programmierung\\Praxis\\Praxis 3 Berechnungen\\Übung 03 Berechnungen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

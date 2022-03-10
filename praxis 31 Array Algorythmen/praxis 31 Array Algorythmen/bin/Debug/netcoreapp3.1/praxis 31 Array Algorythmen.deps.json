@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "praxis 31 Array Algorythmen/1.0.0": {
+        "runtime": {
+          "praxis 31 Array Algorythmen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "praxis 31 Array Algorythmen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

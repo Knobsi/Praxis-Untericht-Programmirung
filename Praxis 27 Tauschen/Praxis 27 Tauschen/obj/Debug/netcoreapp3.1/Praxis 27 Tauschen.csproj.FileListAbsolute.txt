@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\bin\Debug\netcoreapp3.1\Praxis 27 Tauschen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 27 Tauschen\Praxis 27 Tauschen\obj\Debug\netcoreapp3.1\Praxis 27 Tauschen.genruntimeconfig.cache

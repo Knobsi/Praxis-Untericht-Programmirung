@@ -25,7 +25,12 @@
       "ProjectGuid": "6575e600-d161-4d00-ba5a-e82f08284079",
       "DisplayName": "Aufgabe 4",
       "ColorIndex": 4
+    },
+    "01242bfd-ddd3-4b46-9a75-c3b2ae9db4d1": {
+      "ProjectGuid": "01242bfd-ddd3-4b46-9a75-c3b2ae9db4d1",
+      "DisplayName": "4b",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

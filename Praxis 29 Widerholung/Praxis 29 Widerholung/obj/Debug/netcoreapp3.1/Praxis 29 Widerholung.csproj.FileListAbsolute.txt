@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\bin\Debug\netcoreapp3.1\Praxis 29 Widerholung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 29 Widerholung\Praxis 29 Widerholung\obj\Debug\netcoreapp3.1\Praxis 29 Widerholung.genruntimeconfig.cache

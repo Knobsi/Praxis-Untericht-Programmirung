@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\bin\Debug\netcoreapp3.1\Praxis 30 Maximum.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 30 Maximum\Praxis 30 Maximum\obj\Debug\netcoreapp3.1\Praxis 30 Maximum.genruntimeconfig.cache

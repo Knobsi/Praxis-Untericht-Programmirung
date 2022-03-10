@@ -5,7 +5,12 @@
       "ProjectGuid": "6e4b47d2-e04c-4a7c-a6b2-4fe321417840",
       "DisplayName": "Praxis 24",
       "ColorIndex": 0
+    },
+    "f95e3b15-6563-4973-8836-ff16b4579049": {
+      "ProjectGuid": "f95e3b15-6563-4973-8836-ff16b4579049",
+      "DisplayName": "Praxis 24b",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

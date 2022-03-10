@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d69951f-fcc6-4566-8d1e-ff4bbcf7f145": {
+      "ProjectGuid": "9d69951f-fcc6-4566-8d1e-ff4bbcf7f145",
+      "DisplayName": "Aufgabenblatt9",
+      "ColorIndex": 0
+    },
+    "32b34374-0a18-4dc5-95aa-9b999e5658a3": {
+      "ProjectGuid": "32b34374-0a18-4dc5-95aa-9b999e5658a3",
+      "DisplayName": "Aufgabe 1",
+      "ColorIndex": 1
+    },
+    "7391847c-2916-460d-a530-3db03c82bc81": {
+      "ProjectGuid": "7391847c-2916-460d-a530-3db03c82bc81",
+      "DisplayName": "Aufgabe 2",
+      "ColorIndex": 2
+    },
+    "84eead43-5029-4581-bcd6-586e5b238028": {
+      "ProjectGuid": "84eead43-5029-4581-bcd6-586e5b238028",
+      "DisplayName": "Aufgabe 3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -7,18 +7,21 @@ namespace Aufgabe_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Summe(1,5));
+            double ergebnis = Fakultaet(5);
+            Console.Write(ergebnis);
         }
-
-        public static int Summe(int x, int y)
+        
+        public static double Fakultaet(int zahl)
         {
-            int sum = 0;
-            for (int i = x; i <= y; i++)
+            double ergebnis = 1;
+
+            for(int i = 1; i <= zahl; i++)
             {
-                sum += i;
+                ergebnis *= i;
             }
 
-            return sum;
+            return ergebnis;
         }
+        
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\bin\Debug\netcoreapp3.1\Praxis 35 Immobilie.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 35 Immobilie\Praxis 35 Immobilie\obj\Debug\netcoreapp3.1\Praxis 35 Immobilie.genruntimeconfig.cache

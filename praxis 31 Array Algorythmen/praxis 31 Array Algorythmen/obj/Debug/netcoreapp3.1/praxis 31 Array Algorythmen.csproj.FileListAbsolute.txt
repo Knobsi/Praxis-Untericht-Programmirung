@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\bin\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\praxis 31 Array Algorythmen\praxis 31 Array Algorythmen\obj\Debug\netcoreapp3.1\praxis 31 Array Algorythmen.genruntimeconfig.cache

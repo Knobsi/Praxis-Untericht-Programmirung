@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\bin\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 34 Klasse Luftballon\Praxis 34 Klasse Luftballon\obj\Debug\netcoreapp3.1\Praxis 34 Klasse Luftballon.genruntimeconfig.cache

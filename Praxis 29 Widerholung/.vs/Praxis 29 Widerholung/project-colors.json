@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f828201-28ca-403b-ab20-c2fc9a6c0a93": {
+      "ProjectGuid": "5f828201-28ca-403b-ab20-c2fc9a6c0a93",
+      "DisplayName": "Praxis 29 Widerholung",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

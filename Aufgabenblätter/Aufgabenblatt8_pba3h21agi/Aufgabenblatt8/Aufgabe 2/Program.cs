@@ -7,9 +7,16 @@ namespace Aufgabe_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double fahrenheit = ConvertToFahrenheit(36);
+            Console.WriteLine(fahrenheit);
         }
+        public static double ConvertToFahrenheit(double celsius)
+        {
 
+            double fahrenheit = (celsius * 9) / 5 + 32;
+
+            return fahrenheit;
+        }
 
     }
 }
