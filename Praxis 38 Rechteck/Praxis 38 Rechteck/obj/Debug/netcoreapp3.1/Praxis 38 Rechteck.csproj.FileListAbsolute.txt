@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\bin\Debug\netcoreapp3.1\Praxis 38 Rechteck.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 38 Rechteck\Praxis 38 Rechteck\obj\Debug\netcoreapp3.1\Praxis 38 Rechteck.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\bin\Debug\netcoreapp3.1\Aufgabe 11.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Aufgabe 11\Aufgabe 11\obj\Debug\netcoreapp3.1\Aufgabe 11.genruntimeconfig.cache

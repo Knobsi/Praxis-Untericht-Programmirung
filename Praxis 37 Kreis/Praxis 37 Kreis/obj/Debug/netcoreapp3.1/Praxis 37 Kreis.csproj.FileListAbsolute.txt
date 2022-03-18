@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\bin\Debug\netcoreapp3.1\Praxis 37 Kreis.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 37 Kreis\Praxis 37 Kreis\obj\Debug\netcoreapp3.1\Praxis 37 Kreis.genruntimeconfig.cache

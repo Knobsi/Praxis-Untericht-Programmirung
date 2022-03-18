@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\bin\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 36 Klasse Würfel\Praxis 36 Klasse Würfel\obj\Debug\netcoreapp3.1\Praxis 36 Klasse Würfel.genruntimeconfig.cache
