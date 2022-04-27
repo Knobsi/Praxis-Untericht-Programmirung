@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\bin\Debug\netcoreapp3.1\Praxis 39 Teilsumme.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Untericht\Programmierung\Praxis\Praxis 39 Teilsumme\Praxis 39 Teilsumme\obj\Debug\netcoreapp3.1\Praxis 39 Teilsumme.genruntimeconfig.cache

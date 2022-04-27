@@ -94,5 +94,9 @@ namespace Aufgabe_11
                 Console.WriteLine("**********PLAYER DEAD**********");
             }
         }
+        public override string ToString()
+        {
+            return ($"Knight = {name} Energy = {energy} Lives = {lives}");
+        }
     }
 }

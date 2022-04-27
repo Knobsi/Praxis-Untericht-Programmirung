@@ -51,5 +51,10 @@ namespace Aufgabe_11
                 Console.WriteLine("**********MONSTER DEAD*********");
             }
         }
+
+        public override string ToString()
+        {
+            return ($"Monster Energy = {energy} Power = {power}");
+        }
     }
 }
