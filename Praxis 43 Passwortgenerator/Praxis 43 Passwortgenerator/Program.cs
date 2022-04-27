@@ -17,15 +17,21 @@ namespace Praxis_43_Passwortgenerator
             string rueckgabe = "";
             string[] bearbeitung = satz.Split(" ");
             int laenge = 0;
-            if(bearbeitung.Length < 8)
-            {
+
+            int bustabenZahl = 1;
+
+            if (bearbeitung.Length < 8)
+                bustabenZahl = 2;
+            else
+                bustabenZahl = 1;
+
                 foreach (string item in bearbeitung)
                 {
                     
-                    rueckgabe += item.Substring(0,2);
-                    laenge++;
+                    rueckgabe += item.Substring(0,bustabenZahl);
 
                     char[] test = new char[item.Length];
+                    test = item.ToCharArray();
                     foreach(char c in test)
                     {
                         if (c == '.')
@@ -38,33 +44,11 @@ namespace Praxis_43_Passwortgenerator
                             rueckgabe += "!";
                         else if (c == '?')
                             rueckgabe += "?";
+                        laenge++;
                     }
                 }
-            }
-            else
-            {
-                foreach (string item in bearbeitung)
-                {
-
-                    rueckgabe += item.Substring(0,1);
-                    laenge++;
-
-                    char[] test = new char[item.Length];
-                    foreach (char c in test)
-                    {
-                        if(c == '.')
-                            rueckgabe += ".";
-                        else if(c ==',')
-                            rueckgabe += ",";
-                        else if(c =='-')
-                            rueckgabe += "-";
-                        else if(c =='!')
-                            rueckgabe += "!";
-                        else if (c == '?')
-                            rueckgabe += "?";
-                    }
-                }
-            }
+           
+            
             rueckgabe += Convert.ToString(laenge);
             return rueckgabe;
         }
