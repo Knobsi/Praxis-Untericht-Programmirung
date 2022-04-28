@@ -27,8 +27,13 @@ namespace Praxis_43_Passwortgenerator
 
                 foreach (string item in bearbeitung)
                 {
-                    
-                    rueckgabe += item.Substring(0,bustabenZahl);
+                    if (item.Length >= 2)
+                      rueckgabe += item.Substring(0, bustabenZahl);
+                    else if (item.Length >= 1)
+                        rueckgabe += item;
+                    else
+                       throw new ArgumentException("Fehler ungültige eingabe");
+
 
                     char[] test = new char[item.Length];
                     test = item.ToCharArray();
@@ -44,6 +49,8 @@ namespace Praxis_43_Passwortgenerator
                             rueckgabe += "!";
                         else if (c == '?')
                             rueckgabe += "?";
+
+                    if (char.IsLetter(c))
                         laenge++;
                     }
                 }
