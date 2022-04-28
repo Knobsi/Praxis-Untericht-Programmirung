@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Praxis_42_Buchstaben_suchen_und_ersetzen</RootNamespace>
+  </PropertyGroup>
+
+</Project>
