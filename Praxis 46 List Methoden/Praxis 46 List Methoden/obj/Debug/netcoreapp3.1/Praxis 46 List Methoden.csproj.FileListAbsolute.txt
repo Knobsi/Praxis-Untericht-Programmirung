@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\bin\Debug\netcoreapp3.1\Praxis 46 List Methoden.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 46 List Methoden\Praxis 46 List Methoden\obj\Debug\netcoreapp3.1\Praxis 46 List Methoden.genruntimeconfig.cache

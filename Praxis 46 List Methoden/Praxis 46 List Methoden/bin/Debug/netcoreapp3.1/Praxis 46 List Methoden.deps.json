@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 46 List Methoden/1.0.0": {
+        "runtime": {
+          "Praxis 46 List Methoden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 46 List Methoden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

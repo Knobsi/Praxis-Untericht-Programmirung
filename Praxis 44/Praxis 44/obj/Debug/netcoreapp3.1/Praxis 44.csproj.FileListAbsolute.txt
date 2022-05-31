@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\bin\Debug\netcoreapp3.1\Praxis 44.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 44\Praxis 44\obj\Debug\netcoreapp3.1\Praxis 44.genruntimeconfig.cache

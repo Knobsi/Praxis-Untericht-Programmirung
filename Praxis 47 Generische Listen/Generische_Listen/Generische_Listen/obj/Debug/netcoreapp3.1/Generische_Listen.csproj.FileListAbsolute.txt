@@ -1,0 +1,28 @@
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.exe
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.deps.json
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.runtimeconfig.json
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.runtimeconfig.dev.json
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.dll
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.pdb
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.csproj.AssemblyReference.cache
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.GeneratedMSBuildEditorConfig.editorconfig
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.AssemblyInfoInputs.cache
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.AssemblyInfo.cs
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.csproj.CoreCompileInputs.cache
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.dll
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.pdb
+I:\Lernordner (Fächer)\Programmierung\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.genruntimeconfig.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\bin\Debug\netcoreapp3.1\Generische_Listen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 47 Generische Listen\Generische_Listen\Generische_Listen\obj\Debug\netcoreapp3.1\Generische_Listen.genruntimeconfig.cache

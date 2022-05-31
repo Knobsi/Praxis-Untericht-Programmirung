@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 48 DateTime und TimeSpan/1.0.0": {
+        "runtime": {
+          "Praxis 48 DateTime und TimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 48 DateTime und TimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
