@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\bin\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 50 AltersGruppen\Praxis 50 AltersGruppen\obj\Debug\netcoreapp3.1\Praxis 50 AltersGruppen.genruntimeconfig.cache

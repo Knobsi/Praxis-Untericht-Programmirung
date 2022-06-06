@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\bin\Debug\netcoreapp3.1\Aufgabe A.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Aufgabenblätter\Aufgabenblatt15_pba3h21agi\Aufgabe A\obj\Debug\netcoreapp3.1\Aufgabe A.genruntimeconfig.cache
