@@ -7,6 +7,7 @@ namespace Aufgabe_A
     {
         static void Main(string[] args)
         {
+            #region A
             Rennschnecke rs1 = new Rennschnecke("Turbo", Schneckenart.Stahlheml_Renschnecke, 12);
             Rennschnecke rs2 = new Rennschnecke("Batman", Schneckenart.Batman_Renschnecke, 10);
             Rennschnecke rs3 = new Rennschnecke("Schleimie", Schneckenart.Mosaik_Renschnecke, 11);
@@ -33,6 +34,25 @@ namespace Aufgabe_A
             }
 
             Console.WriteLine(String.Join("|", rennen));
+            #endregion
+            Console.Clear();
+
+            //B+C
+
+            Rennen run = new Rennen("Run1",Renndistanz.Mittelstrecke,50);
+            Random rn = new Random();
+
+
+            for (int i = 0; i < 50; i++)
+            {
+                run.AddRenschnecke(new Rennschnecke("Bob" + i.ToString(), (Schneckenart)rn.Next(7), rn.Next(7, 14)));
+            }
+            run.Durchführen();
+
+
+                Console.WriteLine(run);
+            
+         
         }
     }
 }

@@ -23,7 +23,14 @@ namespace Aufgabe_A
         {
             get { return maxGeschwindigkeit; }
         }
-        private int strecke = 0;
+        private int strecke;
+
+        public int Strecke
+        {
+            get { return strecke; }
+            set { strecke = value; }
+        }
+
         private Random rn = new Random();
 
         public Rennschnecke(string name, Schneckenart art, int maxGeschwindigkeit)
