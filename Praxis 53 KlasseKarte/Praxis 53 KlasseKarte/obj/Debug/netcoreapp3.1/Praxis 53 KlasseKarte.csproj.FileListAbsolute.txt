@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\bin\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 53 KlasseKarte\Praxis 53 KlasseKarte\obj\Debug\netcoreapp3.1\Praxis 53 KlasseKarte.genruntimeconfig.cache

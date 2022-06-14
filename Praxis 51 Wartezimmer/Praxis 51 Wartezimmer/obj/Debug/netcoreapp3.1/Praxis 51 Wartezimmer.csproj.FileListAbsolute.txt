@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\bin\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 51 Wartezimmer\Praxis 51 Wartezimmer\obj\Debug\netcoreapp3.1\Praxis 51 Wartezimmer.genruntimeconfig.cache

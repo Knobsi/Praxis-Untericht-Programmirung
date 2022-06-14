@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\bin\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 52 SackBahnhof\Praxis 52 SackBahnhof\obj\Debug\netcoreapp3.1\Praxis 52 SackBahnhof.genruntimeconfig.cache
