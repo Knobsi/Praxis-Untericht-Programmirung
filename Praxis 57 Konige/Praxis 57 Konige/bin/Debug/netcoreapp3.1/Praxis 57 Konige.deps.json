@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 57 Konige/1.0.0": {
+        "runtime": {
+          "Praxis 57 Konige.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 57 Konige/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

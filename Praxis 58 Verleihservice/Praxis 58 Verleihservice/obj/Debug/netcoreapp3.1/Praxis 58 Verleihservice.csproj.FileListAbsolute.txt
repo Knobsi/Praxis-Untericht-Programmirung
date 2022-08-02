@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\bin\Debug\netcoreapp3.1\Praxis 58 Verleihservice.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 58 Verleihservice\Praxis 58 Verleihservice\obj\Debug\netcoreapp3.1\Praxis 58 Verleihservice.genruntimeconfig.cache

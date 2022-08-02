@@ -1,0 +1,14 @@
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.exe
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.deps.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.runtimeconfig.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.runtimeconfig.dev.json
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\bin\Debug\netcoreapp3.1\Praxis 57 Konige.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.csproj.AssemblyReference.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.AssemblyInfoInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.AssemblyInfo.cs
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.csproj.CoreCompileInputs.cache
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.dll
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.pdb
+C:\Users\bib\OneDrive - bib & FHDW\Desktop\Schule\Semester 1\Untericht\Programmierung\Praxis\Praxis 57 Konige\Praxis 57 Konige\obj\Debug\netcoreapp3.1\Praxis 57 Konige.genruntimeconfig.cache

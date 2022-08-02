@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPKSbYOGFhBRSadWQjlbZac4LoZgDRQ74IHSyknTsRNWY3xYiYA9j86U2T7WjbOG8sVcZUEnOxdXFtIzqWXR9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bib\\OneDrive - bib & FHDW\\Desktop\\Schule\\Semester 1\\Untericht\\Programmierung\\Praxis\\Praxis 58 Verleihservice\\Praxis 58 Verleihservice\\Praxis 58 Verleihservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

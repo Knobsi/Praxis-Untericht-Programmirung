@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praxis 58 Verleihservice/1.0.0": {
+        "runtime": {
+          "Praxis 58 Verleihservice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praxis 58 Verleihservice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
